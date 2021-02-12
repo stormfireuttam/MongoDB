@@ -15,6 +15,8 @@ SQL databases store data in tabular format. This data is stored in a predefined 
 
 Relational Database Management System(RDBMS) is not the correct choice when it comes to handling big data by the virtue of their design since they are not horizontally scalable. If the database runs on a single server, then it will reach a scaling limit. NoSQL databases are more scalable and provide superior performance. MongoDB is such a NoSQL database that scales by adding more and more servers and increases productivity with its flexible document model.
 
+<img src="https://github.com/stormfireuttam/MongoDB/blob/main/01%20Introduction/Image01.jpg"/>
+
 #  RDBMS vs MongoDB:
 
 
