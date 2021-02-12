@@ -24,7 +24,12 @@ Relational Database Management System(RDBMS) is not the correct choice when it c
  -   Complex transactions are not supported in MongoDB because complex join operations are not available.
  -   MongoDB allows a highly flexible and scalable document structure. For example, one data document of a collection in MongoDB can have two fields whereas the other document in the same collection can have four.
  -   MongoDB is faster as compared to RDBMS due to efficient indexing and storage techniques.
- -   There are a few terms which are related in both the databases. What’s called Table in RDBMS is called a Collection in MongoDB. Similarly, a Tuple/Row is called a Document and A Column is called a Field. MongoDB provides a default ‘_id’ (if not provided explicitly) which is a 12 byte hexadecimal number which assures the uniqueness of every document. It is similar to the Primary key in RDBMS.
+ <img src="https://github.com/stormfireuttam/MongoDB/blob/main/01%20Introduction/document.jpg"/>
+
+-   There are a few terms which are related in both the databases. What’s called Table in RDBMS is called a Collection in MongoDB. Similarly, a Tuple/Row is called a Document and A Column is called a Field. MongoDB provides a default ‘_id’ (if not provided explicitly) which is a 12 byte hexadecimal number which assures the uniqueness of every document. It is similar to the Primary key in RDBMS.
+
+<img src="https://github.com/stormfireuttam/MongoDB/blob/main/01%20Introduction/collection.jpg"/>
+
 
 # Features of MongoDB:
 
